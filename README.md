@@ -6,8 +6,6 @@ TestDuck.js Doc
 
 For sample usage run **testduck.html** (via browser) or **testducksample.js** in console.
 
-https://github.com/bl4de/DebugDuck.js/blob/master/debugtest.html
-
 
 Standard usage
 ==============
