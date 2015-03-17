@@ -1,7 +1,7 @@
 /**
  * Created by rafal.janicki on 2015-03-16.
  */
-angular.module('StorePlusApp')
+angular.module('App')
     .service("BasketService", function (StorageService) {
         return {
             // basket storage service

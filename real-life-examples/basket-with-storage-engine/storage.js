@@ -5,7 +5,7 @@
  Storage Engine for StorePlus application
  stores data in web storage (localStorage/sessionStorage)
  */
-angular.module('StorePlusApp')
+angular.module('App')
     .service("StorageService", function () {
         return {
             storageTypes: ["memory", "local", "session"],
